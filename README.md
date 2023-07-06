@@ -2,7 +2,7 @@
 Fanceylon Online Fashion Store With Admin Panel
 Year 1 Semester 2 IWT Final Project
 Preview
-Onlien Demo
+Online Demo
 https://aroshana.sciencelk.club/fanceylon/
 
 Home Page
